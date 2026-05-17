@@ -34,7 +34,7 @@ export default function BookAppointmentPage() {
   const sendToWhatsApp = (e: FormEvent) => {
     e.preventDefault();
 
-    const whatsappNumber = '8801700000000';
+    const whatsappNumber = '01873843384';
 
     const text = `
 Hello Maison Living Studio,

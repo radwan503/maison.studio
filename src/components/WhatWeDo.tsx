@@ -9,7 +9,6 @@ import {
 } from 'framer-motion';
 
 const YELLOW = '#F2C84B';
-const DARK = '#15110c';
 const smoothEase = [0.76, 0, 0.24, 1] as const;
 
 const stackImages = [

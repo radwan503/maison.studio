@@ -3,7 +3,6 @@
 import { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
 import Link from 'next/link';
-import Footer from '@/components/_common/Footer';
 
 const smoothEase = [0.76, 0, 0.24, 1] as const;
 
